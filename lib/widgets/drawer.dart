@@ -16,7 +16,7 @@ class MyDrawer extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.start,
         children: [
           const UserAccountsDrawerHeader(
-            accountName: Text(authData.user.name)
+            accountName: Text('Manish saini'),
             accountEmail: Text('ms471841@gmail.com'),
             // currentAccountPicture: CircleAvatar(
             //   backgroundImage: AssetImage(''),
